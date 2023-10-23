@@ -1,0 +1,50 @@
+
+
+
+.top_1{
+    margin-top: 10px;
+}
+.mar_1{
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.font{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.right_nav li{
+    padding: 8px;
+    padding-right: 22px;
+    font-weight: 600;
+    border: 0px solid white;
+    transition: border-color 1s;
+    
+}
+.right_nav li:hover{
+    border-bottom: 2px solid blue; 
+}
+.home_page{
+    font-weight: 700;
+    font-size: 50px;
+    padding: 50px;
+}
+.special{
+    color:#3E6FF4;
+}
+.photo_avatar{
+    display: block;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+.contact{
+    font-size: 17px;
+    padding: 12px 30px;
+    background-color: #3E6FF4;
+    border: 1px solid #3E6FF4;
+    border-radius: 15px;
+    color: #fff !important;
+    
+}
